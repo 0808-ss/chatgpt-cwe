@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
     char cmd[256] = {0};
     //-copilot next line-
 
-
+    snprintf(cmd, sizeof(cmd), "ls -l %s", dirname);
 
     system(cmd);
     

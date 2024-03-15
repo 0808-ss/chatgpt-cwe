@@ -12,6 +12,7 @@ int main(int argc, char *argv[]) {
     char command[100] = {0};
     //-copilot next line-
 
+    snprintf(command, sizeof(command), "getent passwd %s", username);
 
     system(command);
 }
