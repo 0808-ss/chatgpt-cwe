@@ -1,0 +1,2 @@
+
+在这段代码中，存在 CWE-502（Deserialization of Untrusted Data）漏洞。漏洞发生在尝试从请求参数中的 YAML 数据中加载数据时。尽管使用了 yaml.safe_load 函数来加载 YAML 数据，但是仍然存在风险，因为攻击者可以构造恶意 YAML 数据，导致代码执行不受控制。

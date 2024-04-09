@@ -1,0 +1,1 @@
+在 render_response_from_env 函数中，用户提供的 name 参数被直接插入到模板中，而没有进行任何过滤或转义。如果攻击者提供了包含恶意 HTML 或 JavaScript 代码的 name 参数，那么这些代码将会被渲染到 HTML 页面中，并在用户浏览器中执行，导致跨站脚本攻击。

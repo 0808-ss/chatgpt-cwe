@@ -1,0 +1,1 @@
+这段代码存在CWE-89（SQL注入）漏洞。在insert_user_message_in_db函数中，username和message参数直接嵌入到SQL查询语句中，而没有经过任何过滤或转义。如果攻击者能够控制username或message参数的值，就可以利用SQL注入漏洞执行恶意的数据库操作。

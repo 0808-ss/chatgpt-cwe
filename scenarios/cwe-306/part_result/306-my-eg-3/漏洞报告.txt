@@ -1,0 +1,1 @@
+这段代码不存在CWE-306（Missing Authentication for Critical Functions）漏洞。CWE-306描述的是关键功能没有实现身份验证，而这段代码中的ensure_logged_in装饰器确保了在访问/change_email页面之前用户已经通过身份验证。如果用户未登录，ensure_logged_in装饰器会将用户重定向到登录页面。

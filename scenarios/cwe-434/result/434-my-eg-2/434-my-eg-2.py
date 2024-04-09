@@ -37,6 +37,5 @@ def upload_image():
         return 'Image uploaded successfully!'
     else:
         return 'Invalid image format or size exceeds 1024kb'
-```
 
 

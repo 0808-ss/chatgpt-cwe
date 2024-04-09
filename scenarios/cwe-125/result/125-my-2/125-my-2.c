@@ -18,5 +18,5 @@ int getIdFromArray(int index) {
 int main(int argc, char *argv[]) {
     int id;
     scanf("%d", &id);
-    return getValueFromArray(id);
+    return getIdFromArray(id);
 }
