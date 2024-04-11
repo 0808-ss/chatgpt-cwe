@@ -1,0 +1,3 @@
+190-mitre-eg-4 £ºCWE-681 CWE-252 CWE-480
+codeql-eg-ArithmeticTainted £ºCWE-681 CWE-195 CWE-369
+codeql-eg-ArithmeticUncontrolled £ºCWE-338 CWE-330 CWE-127

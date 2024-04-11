@@ -1,0 +1,5 @@
+codeql-eg-C-TaintedPath£ºCWE-73 CWE-457 CWE-377
+
+codeql-eg-Python-TaintedPath£ºCWE-78 CWE-22 CWE-434
+
+codeql-eg-TarSlip£ºCWE-73 CWE-22 CWE-78

@@ -1,0 +1,1 @@
+codeql-eg-PamAuthorization £º CWE-259 CWE-319 CWE-522

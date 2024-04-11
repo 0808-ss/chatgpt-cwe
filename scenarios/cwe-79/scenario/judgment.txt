@@ -1,0 +1,3 @@
+codeql-eg-ExternalAPISinkExample £ºCWE-120 CWE-73 CWE-20
+codeql-eg-Jinja2WithoutEscaping £ºCWE-94 CWE-20 CWE-79
+codeql-eq-ReflectedXss £ºCWE-73 CWE-20 CWE-434

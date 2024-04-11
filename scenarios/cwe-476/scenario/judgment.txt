@@ -1,0 +1,3 @@
+codeql-eg-MissingNullTest-a £ºCWE-401 CWE-789 CWE-416
+codeql-eg-MissingNullTest-b £ºCWE-758 CWE-401 CWE-690
+codeql-eg-MissingNullTest-c £ºCWE-789 CWE-789  CWE-131

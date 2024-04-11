@@ -1,0 +1,5 @@
+20-my-eg-1.c £ºCWE-476 CWE-191 CWE-20
+
+codeql-eg-IncompleteHostnameRegExp £ºCWE-601 CWE-200 CWE-285
+
+ codeql-eg-IncompleteUrlSubstringSanitization£º CWE-601 CWE-20 CWE-200

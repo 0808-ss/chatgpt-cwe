@@ -1,0 +1,1 @@
+这段代码中存在CWE-306（Missing Authentication for Critical Functions）的潜在风险。CWE-306指的是关键功能没有实现身份验证，而这段代码中的/secret路由被@ensure_logged_in装饰器保护，确保了只有经过身份验证的用户才能访问。然而，do_login函数中的身份验证逻辑存在问题

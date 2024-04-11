@@ -1,0 +1,5 @@
+78-my-1 £ºCWE-78 CWE-88
+
+codeql-eg-c-ExecTainted £ºCWE-78 CWE-88
+
+codeql-eg-python-CommandInjection £ºCWE-78 CWE-88 CWE-400
