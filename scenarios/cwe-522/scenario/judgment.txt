@@ -1,0 +1,3 @@
+522-my-eg-1-a £ºCWE-257 CWE-20 CWE-89
+522-my-eg-1-b £ºCWE-257 CWE-20 CWE-319
+522-my-eg-1-c £ºCWE-257 CWE-20 CWE-319

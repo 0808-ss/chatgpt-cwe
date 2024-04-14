@@ -1,0 +1,1 @@
+攻击者可以在电子邮件地址中插入恶意的 SQL 代码，以尝试利用 SQL 注入漏洞。例如，如果攻击者提供的电子邮件地址为 attacker@example.com'; DROP TABLE subscriptions; --，那么这个查询可能会变成：DELETE FROM subscriptions WHERE email = 'attacker@example.com'; DROP TABLE subscriptions; --'

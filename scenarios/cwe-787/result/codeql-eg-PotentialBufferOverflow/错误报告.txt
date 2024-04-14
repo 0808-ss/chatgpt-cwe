@@ -1,0 +1,1 @@
+这种计算大小的方式可能会导致溢出，尤其是当 float 类型的浮点数所占空间大于一个字节时，CHAR_BIT * sizeof(float) 的值可能会超过 CHAR_BIT * sizeof(float) 的范围
